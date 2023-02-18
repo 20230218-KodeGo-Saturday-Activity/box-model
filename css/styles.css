@@ -4,10 +4,28 @@
   box-sizing: border-box;
 }
 
+body {
+  font-size: 40px;
+  /* height: 100px;
+  width: 600px; */
+}
+
 .first-box {
   background-color: lightblue;
+  padding: 20px;
+  border: 20px solid lightgreen;
+  margin: 80px;
+  height: 100px;
+  width: 600px;
+  font-size: 1.5rem;
 }
 
 .second-box {
   background-color: lightcoral;
+  padding: 20px;
+  border: 20px solid lightgreen;
+  margin: 100px;
+  height: 100px;
+  width: 600px;
+  font-size: 1rem;
 }
